@@ -1,2 +1,5 @@
 - 👋 Hi, I’m @lehwek
-Blockchain developer, currently dedicating my time to a BSC20 crypto token mining game.
+- Im a 15 year old Polish living in France. I am passionate about computers, a big fan of ethical hacking.
+- I speak 3 languages fluently, Polish, French, English and im learning A2 German.
+- Im also a passionate of cryptocurrencies and have big plans for my own token :P
+- Always up for collabs
